@@ -14,8 +14,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 import org.apache.jena.rdf.model.Literal;
 import org.apache.jena.rdf.model.Model;
@@ -253,7 +251,7 @@ public class IfcIPFS {
 		List<String> list = new ArrayList<String>();
 		int mode=0;
 		StringBuilder sb=new StringBuilder();
-		for(int ci:s.getBytes())
+		for(int ci:s.trim().getBytes())
 		{
 			char c=(char)ci;
 			switch(mode) {
