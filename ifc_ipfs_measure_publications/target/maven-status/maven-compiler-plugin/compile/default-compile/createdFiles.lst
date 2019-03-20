@@ -1,0 +1,11 @@
+org\lbd\ScreenScrape.class
+org\lbd\IfcOWLFile.class
+org\lbd\rdf\IPFS_NS.class
+org\lbd\rdf\IFC_NS.class
+org\lbd\ifc\RootEntity.class
+org\lbd\ifc\IfcFileMeasurements.class
+org\lbd\rdf\CanonizedPattern.class
+org\lbd\ExportData.class
+org\lbd\IFCtoLBDFiles_Measurer.class
+org\lbd\IFCFiles2RDFModel.class
+org\lbd\IFCtoLBDFiles_MeasureMerkleNodeSizes.class
