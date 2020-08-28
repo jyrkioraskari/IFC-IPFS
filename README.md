@@ -1,5 +1,5 @@
 # IFC-IPFS
-v 1.2
+v 1.21
 
 IFC to IPFS publishing tests.
 
