@@ -17,7 +17,16 @@ http://programme.exordo.com/icccbe2018/delegates/presentation/354/.
 ## Cite this
 
 ```
-
+@software{jyrki_oraskari_2020_4006446,
+  author       = {Jyrki Oraskari},
+  title        = {jyrkioraskari/IFC-IPFS: IFC-IPFS v1.22},
+  month        = aug,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {1.22},
+  doi          = {10.5281/zenodo.4006446},
+  url          = {https://doi.org/10.5281/zenodo.4006446}
+}
 ```
 
 ## Acknowledgements
