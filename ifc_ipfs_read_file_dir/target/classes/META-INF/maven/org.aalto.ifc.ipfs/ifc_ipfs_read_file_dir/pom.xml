@@ -22,7 +22,7 @@
 		<dependency>
 			<groupId>org.aalto.ifc.ipfs</groupId>
 			<artifactId>ifc_ipfs_library</artifactId>
-			<version>1.1</version>
+			<version>1.2</version>
 		</dependency>
 		<dependency>
 			<groupId>com.github.ipfs</groupId>
@@ -70,5 +70,5 @@
 
 
 	</dependencies>
-	<version>1.1</version>
+	<version>1.2</version>
 </project>

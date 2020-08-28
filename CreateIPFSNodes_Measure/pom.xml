@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.lbd.ifc_ipfs</groupId>
 	<artifactId>ifc_ipfs_measure</artifactId>
-	<version>1.1</version>
+	<version>1.2</version>
 	<name>RDFSave</name>
 
 
