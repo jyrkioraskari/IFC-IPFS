@@ -1,1 +1,6 @@
+org\lbd\IFCtoLBDFiles_ElementIntersection.class
+org\lbd\rdfpath\InvRDFStep.class
+org\lbd\rdfpath\RDFStep.class
 org\lbd\IFCtoLBDFiles_Stats.class
+org\lbd\RDFClassCounter.class
+org\lbd\IFCtoLBDFiles_MostCommonDuplicates.class

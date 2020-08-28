@@ -1,1 +1,5 @@
-org\lbd\IFCtoIPFS_Publisher.class
+org\lbd\IFCtoIPFS_DeserializationPublisher.class
+org\lbd\IFCtoIPFS_MeasureEntityCountVersusTTLSize.class
+org\lbd\IFCtoIPFS_WholeMeasure.class
+org\lbd\IFCtoIPFS_WholeFIlesSplitSerializer.class
+org\lbd\IFCtoIPFS_WholePublisher.class
