@@ -1,0 +1,8 @@
+e-Var-2-IFC.ifc
+added QmXmKnKtn5T3RVXy5KE75pR5Z64Uy9PQ6Z2fZyDQd1B8bh 301110FZK-Haus-EliteCAD.ifc
+added QmQWsRqKc8tanaepX1W3rBjMULc9FuyQScS6TN5MzpYKtv 301110Nem-FZK-Haus-2x3.ifc
+added QmdfhyPG5BgYVnBodm2bDt8KCbgmF1w9bZuT9GMnXw6mf1 IfcOpenHouse_IFC2x3.ifc
+ 22.88 MiB / 22.88 MiB [===============================================] 100.00%root@lbd-ipfs:~/IFC# ps -ef | grep ipfs
+root     29301 29286 16 12:45 pts/0    00:00:56 ipfs daemon
+root     29406 29286  0 12:50 pts/0    00:00:00 grep ipfs
+root@lbd-ipfs:~/IFC#

@@ -1,0 +1,4 @@
+261110Allplan-2008-Institute-Var-2-IFC.ifc read  in: 646.96844 ms content size in bytes: 5905135
+301110FZK-Haus-EliteCAD.ifc read  in: 615.63684 ms content size in bytes: 7108739
+301110Nem-FZK-Haus-2x3.ifc read  in: 719.1793 ms content size in bytes: 10046951
+IfcOpenHouse_IFC2x3.ifc read  in: 198.59135 ms content size in bytes: 109862

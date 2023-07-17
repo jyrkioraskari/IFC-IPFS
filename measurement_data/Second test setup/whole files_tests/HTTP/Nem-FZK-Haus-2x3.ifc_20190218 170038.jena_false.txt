@@ -1,0 +1,200 @@
+file read  in: 727.2208 ms
+Round read in: total 736.6811 ms
+file read  in: 637.86 ms
+Round read in: total 643.4999 ms
+file read  in: 677.35754 ms
+Round read in: total 683.1407 ms
+file read  in: 714.0304 ms
+Round read in: total 719.8026 ms
+file read  in: 678.5467 ms
+Round read in: total 686.4221 ms
+file read  in: 674.5264 ms
+Round read in: total 677.40845 ms
+file read  in: 674.797 ms
+Round read in: total 678.0841 ms
+file read  in: 678.03845 ms
+Round read in: total 681.3413 ms
+file read  in: 675.003 ms
+Round read in: total 677.8763 ms
+file read  in: 678.1592 ms
+Round read in: total 681.7031 ms
+file read  in: 673.90454 ms
+Round read in: total 677.0642 ms
+file read  in: 673.6754 ms
+Round read in: total 676.84467 ms
+file read  in: 674.2137 ms
+Round read in: total 677.5397 ms
+file read  in: 693.83887 ms
+Round read in: total 699.6935 ms
+file read  in: 675.17255 ms
+Round read in: total 678.094 ms
+file read  in: 680.0964 ms
+Round read in: total 683.5045 ms
+file read  in: 674.17303 ms
+Round read in: total 677.6393 ms
+file read  in: 713.29456 ms
+Round read in: total 720.5768 ms
+file read  in: 675.5714 ms
+Round read in: total 678.7127 ms
+file read  in: 677.67255 ms
+Round read in: total 680.7046 ms
+file read  in: 674.2613 ms
+Round read in: total 677.7053 ms
+file read  in: 712.2603 ms
+Round read in: total 715.34015 ms
+file read  in: 676.6892 ms
+Round read in: total 679.8694 ms
+file read  in: 713.77234 ms
+Round read in: total 716.975 ms
+file read  in: 674.95685 ms
+Round read in: total 678.1571 ms
+file read  in: 712.58966 ms
+Round read in: total 715.7996 ms
+file read  in: 677.8964 ms
+Round read in: total 681.9518 ms
+file read  in: 712.08966 ms
+Round read in: total 715.47754 ms
+file read  in: 674.8493 ms
+Round read in: total 678.07556 ms
+file read  in: 712.9687 ms
+Round read in: total 716.1567 ms
+file read  in: 675.2146 ms
+Round read in: total 690.32385 ms
+file read  in: 676.5063 ms
+Round read in: total 679.7694 ms
+file read  in: 675.6909 ms
+Round read in: total 678.8468 ms
+file read  in: 687.7136 ms
+Round read in: total 691.0182 ms
+file read  in: 673.7639 ms
+Round read in: total 676.9762 ms
+file read  in: 675.53345 ms
+Round read in: total 678.72144 ms
+file read  in: 672.9281 ms
+Round read in: total 676.2281 ms
+file read  in: 711.2611 ms
+Round read in: total 714.1019 ms
+file read  in: 674.7494 ms
+Round read in: total 677.99817 ms
+file read  in: 716.285 ms
+Round read in: total 719.74945 ms
+file read  in: 678.22577 ms
+Round read in: total 681.4471 ms
+file read  in: 711.21295 ms
+Round read in: total 714.45966 ms
+file read  in: 675.30664 ms
+Round read in: total 678.10486 ms
+file read  in: 683.9668 ms
+Round read in: total 692.0156 ms
+file read  in: 675.7579 ms
+Round read in: total 678.94586 ms
+file read  in: 714.5824 ms
+Round read in: total 717.52905 ms
+file read  in: 673.99915 ms
+Round read in: total 677.1743 ms
+file read  in: 673.704 ms
+Round read in: total 676.961 ms
+file read  in: 674.9075 ms
+Round read in: total 677.9657 ms
+file read  in: 686.93243 ms
+Round read in: total 689.8188 ms
+file read  in: 674.40686 ms
+Round read in: total 677.89905 ms
+file read  in: 712.55194 ms
+Round read in: total 715.77094 ms
+file read  in: 677.9043 ms
+Round read in: total 691.37585 ms
+file read  in: 674.74347 ms
+Round read in: total 678.00836 ms
+file read  in: 674.2706 ms
+Round read in: total 677.9394 ms
+file read  in: 635.9239 ms
+Round read in: total 639.0888 ms
+file read  in: 714.05115 ms
+Round read in: total 720.89734 ms
+file read  in: 734.9171 ms
+Round read in: total 737.7191 ms
+file read  in: 712.7115 ms
+Round read in: total 715.92175 ms
+file read  in: 733.7865 ms
+Round read in: total 736.60864 ms
+file read  in: 711.58374 ms
+Round read in: total 716.7891 ms
+file read  in: 722.05725 ms
+Round read in: total 724.9489 ms
+file read  in: 694.62585 ms
+Round read in: total 697.7805 ms
+file read  in: 719.165 ms
+Round read in: total 722.3051 ms
+file read  in: 715.20337 ms
+Round read in: total 718.2632 ms
+file read  in: 681.07104 ms
+Round read in: total 705.77997 ms
+file read  in: 717.9303 ms
+Round read in: total 720.99207 ms
+file read  in: 715.69385 ms
+Round read in: total 718.8611 ms
+file read  in: 716.61694 ms
+Round read in: total 719.67993 ms
+file read  in: 680.05493 ms
+Round read in: total 684.36365 ms
+file read  in: 717.1132 ms
+Round read in: total 720.485 ms
+file read  in: 678.53705 ms
+Round read in: total 681.6049 ms
+file read  in: 716.62103 ms
+Round read in: total 719.72107 ms
+file read  in: 679.1721 ms
+Round read in: total 682.2511 ms
+file read  in: 716.9556 ms
+Round read in: total 720.1484 ms
+file read  in: 676.8935 ms
+Round read in: total 680.1721 ms
+file read  in: 678.1972 ms
+Round read in: total 681.2189 ms
+file read  in: 678.1788 ms
+Round read in: total 680.9924 ms
+file read  in: 677.43066 ms
+Round read in: total 680.4617 ms
+file read  in: 678.4237 ms
+Round read in: total 681.5462 ms
+file read  in: 717.162 ms
+Round read in: total 720.3515 ms
+file read  in: 678.4312 ms
+Round read in: total 681.4521 ms
+file read  in: 756.9039 ms
+Round read in: total 782.66345 ms
+file read  in: 646.58356 ms
+Round read in: total 649.9925 ms
+file read  in: 675.8411 ms
+Round read in: total 678.9301 ms
+file read  in: 679.76416 ms
+Round read in: total 682.9092 ms
+file read  in: 680.8735 ms
+Round read in: total 685.03577 ms
+file read  in: 677.70593 ms
+Round read in: total 680.7668 ms
+file read  in: 679.6715 ms
+Round read in: total 682.65466 ms
+file read  in: 677.61475 ms
+Round read in: total 680.7326 ms
+file read  in: 678.1481 ms
+Round read in: total 681.16656 ms
+file read  in: 643.0618 ms
+Round read in: total 645.86755 ms
+file read  in: 717.20905 ms
+Round read in: total 720.3185 ms
+file read  in: 679.54236 ms
+Round read in: total 682.5681 ms
+file read  in: 715.8426 ms
+Round read in: total 718.8868 ms
+file read  in: 755.0756 ms
+Round read in: total 758.0469 ms
+file read  in: 716.3841 ms
+Round read in: total 719.6139 ms
+file read  in: 677.8389 ms
+Round read in: total 680.8542 ms
+file read  in: 716.254 ms
+Round read in: total 719.34094 ms
+file read  in: 678.6531 ms
+Round read in: total 704.8492 ms
